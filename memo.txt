@@ -1,1 +1,3 @@
 https://nuejs.org/
+
+https://zenn.dev/nemunyan/articles/f70b4a4174f938
